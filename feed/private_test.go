@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/denro/nordnet/util/models"
+	"github.com/lonnblad/nordnet/util/models"
 )
 
 var privateUnmarshalTests = []struct {

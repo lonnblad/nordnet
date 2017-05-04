@@ -14,7 +14,7 @@
 package nordnet
 
 import (
-	_ "github.com/denro/nordnet/api"
-	_ "github.com/denro/nordnet/feed"
-	_ "github.com/denro/nordnet/util"
+	_ "github.com/lonnblad/nordnet/api"
+	_ "github.com/lonnblad/nordnet/feed"
+	_ "github.com/lonnblad/nordnet/util"
 )
